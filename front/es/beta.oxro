@@ -1,0 +1,35 @@
+title = "Herramientas de negocio, redefinidas."
+
+summary = "Una plataforma ágil, asequible y ética para sus necesidades de su comercio electrónico."
+
+description = "Oxro is perfect for anyone requiring a shopfront system amongst avariety of other tools. Unlike leading e-commerce platforms, Oxro offers low fees, fully customizable shopfronts, scam protection, and flexible payment methods. Finally, your business is in your hands."
+
+interested = "Le interesa?"
+
+request = "Solicitar acceso anticipado"
+
+//Sadly two parts as second part is a link
+consenting = "Al solicitar actualizaciones, usted está consintizando a nuestra {{privacy_link}}"
+
+privacy_policy = "Política de Privacidad"
+
+done = "Hecho!" 
+
+success = "Gracias por su interés! Recibirá un correo electrónico cuando nuestra primera versión beta pública esté disponible."
+
+//Typing animation text
+typing.one = "Herramientas de negocio, redefinidas."
+typing.two = "Páginas de donación, redefinidas"
+typing.three = "Envío de la gota, redefinido."
+typing.four = "Sistemas de soporte, redefinidos."
+typing.four_p2 = " - con inteligencia artificial."
+typing.five = "Estafas"
+typing.five_p2 = " - indefinidas."
+
+//errors
+error.invalid_email = "Correo electrónico no válido."
+error.exists = "Este correo electrónico ya se ha registrado."
+
+
+//Missing translations:
+//email = "Email"

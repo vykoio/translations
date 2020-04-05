@@ -1,0 +1,34 @@
+//title = "Business tools, redefined"
+
+//summary = "An agile, affordable and ethical platform for your e-commerce needs."
+
+//description = "Oxro is perfect for anyone requiring a shopfront system amongst a variety of other tools. Unlike leading e-commerce platforms, Oxro offers no to low fees, fully customizable shopfronts, scam protection, and flexible payment methods - all with the optional aid of decentralization and cutting-edge crypto technology. Finally, your business is in your hands."
+
+//interested = "Are you interested?"
+
+//request = "Request Early Access"
+
+//Sadly two parts as second part is a link
+//consenting = "By requesting updates, you're consenting to our {{privacy_link}}"
+
+//privacy_policy = "Privacy Policy"
+
+//email = "Email"
+
+//done = "Done!"
+
+//success = "Thank you for your interest! You will receive an email when our first public beta becomes available."
+
+//Typing animation text
+//typing.one = "Business tools, redefined."
+//typing.two = "Donation pages, redefined."
+//typing.three = "Drop shipping, redefined."
+//typing.four = "Support Systems, redefined."
+//typing.four_p2 = " - with AI."
+//typing.five = "Scams"
+//typing.five_p2 = " - undefined."
+
+//errors
+//error.invalid_email = "Invalid email."
+//error.exists = "This Email has already been signed up."
+

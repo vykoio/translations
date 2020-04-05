@@ -1,0 +1,34 @@
+title = "개선 된 비즈니스 툴"
+
+summary = "전자 상거래 요구에 맞는 민첩하고 경제적이며 윤리적 인 플랫폼."
+
+description = "Oxro는 다양한 도구 중에서 상점 시스템이 필요한 모든 사람에게 적합합니다. 주요한 전자상거래 플랫폼 답지 않게 Oxro는 저렴한 요금, 완벽하게 사용자 정의 할 수있는 상점, 사기 방지 및 유연한 지불 방법을 제공합니다. 드디어, 당신의 사업은 당신의 손에 있습니다."
+
+interested = "관심이 있습니까?"
+
+request = "조기 액세스 요청"
+
+
+
+//Sadly two parts as second part is a link
+consenting = "업데이트를 요청하면, 당신은 우리의 {{privacy_link}}에 동의합니다"
+
+privacy_policy = "개인정보 처리방침"
+
+done = "완료!"
+email = "이메일"
+
+success = "관심을 가져 주셔서 감사합니다! 첫 공개 베타 버전이 출시되면 이메일을 보내드립니다."
+
+//Typing animation text
+typing.one = "개선 된 비즈니스 툴"
+typing.two = "개선 된 기부 페이지"
+typing.three = "개선 된 하락 선박"
+typing.four = "개선 된 지원 시스템"
+typing.four_p2 = " - 인공지능 와 함께."
+typing.five = "사기"
+typing.five_p2 = " - 불확정."
+
+//errors
+error.invalid_email = "무효한 이메일."
+error.exists = "이 이메일은 이미 가입했습니다."

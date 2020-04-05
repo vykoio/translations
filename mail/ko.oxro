@@ -1,0 +1,53 @@
+//Greetings
+//hello = "안녕하세요"
+//welcome = "환영합니다"
+//thanks = "감사합니다"
+//kindregards = "진정으로"
+
+//Mail footer
+//contact = "연락 & 지원"
+//copyright = "저작권 (c) 2019 Oxro, LTD. 판권 소유."
+
+//Account Created (please activate)
+//account.created.body = "이 이메일에서 Oxro 계정이 생성되었습니다. 이 활동을 인식하지 못하면이 이메일을 무시해도됩니다.\n그렇다면 아래 버튼을 클릭하여 계정을 활성화하고 시작하십시오."
+//account.created.plain = "이 이메일에서 Oxro 계정이 생성되었습니다. 이 활동을 인식하지 못하면이 이메일을 무시해도됩니다. 이 경우 브라우저에 다음 링크를 붙여 넣어 계정을 활성화하고 시작하십시오.: {{link}}"
+//account.created.buttonText = "계정 활성화"
+//account.created.title = "계정 활성화"
+//account.created.subject = "Oxro 계정 활성화"
+
+//Account password reset
+//account.password_reset.body = "당신은 비밀번호를 잊어 버린 것 같습니다. 다행히도 아래 버튼을 클릭하여 재설정 할 수 있습니다. 하지만 비밀번호 재설정을 요청하지 않은 경우이 이메일을 무시할 수 있습니다.\n링크는 10 분 후에 만료됩니다."
+//account.password_reset.plain = "당신은 비밀번호를 잊어 버린 것 같습니다. 다행히도 브라우저에서 다음 링크를 클릭하여 재설정 할 수 있습니다: {{link}}. 하지만 비밀번호 재설정을 요청하지 않은 경우이 이메일을 무시할 수 있습니다. 링크는 10 분 후에 만료됩니다."
+//account.password_reset.buttonText = "비밀번호 재설"
+//account.password_reset.subject = "Oxro 비밀번호 복구" 
+
+//Account new location
+//account.new_location.body = "귀하의 계정에 대해 새로운 로그인 위치가 감지되었습니다. 손님의 계정 및 정보의 보안이 최우선이므로 아래의 IP 및 위치를 검토하고 본인임을 확인하시기 바랍니다. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication.\nPlease confirm this location and device by clicking the button below."
+//account.new_location.plain = "귀하의 계정에 대해 새로운 로그인 위치가 감지되었습니다. 손님의 계정 및 정보의 보안이 최우선이므로 아래의 IP 및 위치를 검토하고 본인임을 확인하시기 바랍니다. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication. Please confirm this location and device by pasting the following link in your browser: {{link}}"
+//account.new_location.buttonText = "위치 확인"
+
+//Invited to control storefront
+//invite.control.body = "{{fromUser}} 는 당신을 {{project}}을 통제하도록 초대했습니다! 동의하려면 아래 버튼을 클릭하십시오."
+//invite.control.plain = "{{fromUser}} 는 당신을 {{project}}을 통제하도록 초대했습니다! 수락하려면 브라우저에 다음 링크를 붙여 너으십시오: {{link}}"
+//invite.control.buttonText = "초대 수락"
+
+//Invited to join oxro
+//invite.join.body = "{{fromUser}}는 Oxro에 당신을 초대했습니다! 아래 버튼을 클릭하여 초대에 액세스하십시오."
+//invite.join.plain = "{{fromUser}}는 Oxro에 당신을 초대했습니다! 수락하려면 브라우저에 다음 링크를 붙여 너으십시오: {{link}}"
+//invite.join.buttonText = "초대 수락"
+
+//Magic link login
+//account.magic_link.body = "당신은 매직 링크를 통해 비밀번호없이 본인 인증을 요청했습니다. 이것이 당신이었고 진행하고 싶다면 아래 버튼을 클릭하십시오. 그렇지 않은 경우이 이메일을 무시해도됩니다."
+//account.magic_link.plain = "당신은 매직 링크를 통해 비밀번호없이 본인 인증을 요청했습니다. 이것이 당신이었고 진행하고 싶다면,이 링크를 클릭하십시오: {{link}}. 그렇지 않은 경우이 이메일을 무시해도됩니다."
+//account.magic_link.buttonText = "본인 인증"
+//account.magic_link.title = "자신 인증"
+//account.magic_link.subject = "비밀번호없는 Oxro 인증 요청"
+
+//Invited to join oxro beta
+//invite.beta.body= "당신은 Oxro 팀에 의해 Oxro에 초대되었습니다! Oxro의 독점적 경험에 액세스하려면 아래 버튼을 클릭하십시오!"
+//invite.beta.plain = "당신은 Oxro 팀에 의해 Oxro에 초대되었습니다! Oxro의 독점 경험에 액세스하려면 브라우저에 다음 링크를 붙여 넣으십시오.: {{link}}."
+//invite.beta.buttonText = "초대 수락"
+
+
+//Missing translations:
+//invite.control.subject = "[Oxro] {{fromUser}} has invited you to join the {{project}} project"
