@@ -1,0 +1,69 @@
+//General Translations
+
+//API status (uppercase)
+ok = "승인"
+failing = "실패"
+
+//The literal translation for a field (input field)
+
+//Lowercase
+field = "필드"
+username = "사용자 이름"
+password = "비밀번호"
+characters = "문자"
+token = "토큰"
+
+//Case respective
+invalid = "무효"
+valid = "유효한"
+
+
+//Messages
+
+//General
+//Characters is already translated. Don't add it here.
+input.short = "{{value}}자 이상이어야합니다"
+input.long = "{{value}}자 미만이어야합니다"
+
+//Account
+account.creation.success = "계정이 생성되었습니다. 이메일을 확인하십시오."
+account.login.success = "로그인했습니다"
+account.logout_all = "모든 세션에서 로그아웃 됐음"
+account.passwordreset.requested = "비밀번호 재설정 지침이 이메일로 전송되었습니다."
+account.passwordreset.success = "비밀번호 초기화"
+account.passwordchange.success = "비밀번호 변경"
+account.activation.success = "계정 활성화"
+account.activation.resent = "새로운 활성화 이메일이 귀하의 이메일로 발송되었습니다."
+account.magic_link.requested = "매직 링크가 귀하의 이메일로 발송되었습니다."
+account.tfa.backup = "복구 코드는 2 단계 인증 코드를받을 수없는 경우 계정에 액세스하는 데 사용됩니다. 계속하기 전에 안전한 곳에 보관하십시오."
+account.tfa.scan = "휴대 전화의 2 단계 인증 앱으로 위 이미지를 스캔하십시오. 바코드를 사용할 수없는 경우 대신 아래에 텍스트 코드를 입력하십시오."
+account.tfa.success = "계정에서 2 단계 인증이 활성화되었습니다."
+
+//Errors
+error.unknown = "알 수없는 오류가 발생했습니다. 다시 시도하십시오."
+error.not_found = "엔드 포인트를 찾을 수 없습니다. 철자를 확인하십시오."
+error.not_provided = "제공되지 않았습니다"
+error.no_tos = "서비스 약관에 동의해야합니다."
+error.secure_password = "문자와 숫자를 포함해야합니다"
+error.in_use = "사용중, 다른 시도하십시오"
+error.invalid_token = "무효한 토큰"
+error.no_token = "토큰이 제공되지 않았습니다"
+error.already_activated = "계정이 이미 활성화되었습니다"
+error.no_account = "계정을 찾을 수 없습니다"
+error.no_changes = "변경 사항이 없습니다"
+error.tfa_already_enabled = "이 계정에서 이미 이중 인증이 활성화되었습니다"
+
+
+//Missing translations:
+//updated = "Updated"
+//projects.creation.success = "Project has been created successfully"
+//projects.invite.success = "User has been invited. Have them check their Email."
+//projects.invite.already = "User is already a member"
+//projects.join.success = "Joined project"
+//projects.invite.not_allowed = "You're not able to join this project, have you been given an invite?"
+//projects.role.changed = "Role updated"
+//error.file_type = "Unaccepted file type"
+//error.file_size = "File is too large"
+//error.rate_limited = "You're being rate-limited"
+//error.too_many = "You've reached your maximum allowance for such a resource"
+//error.no_permission = "Invalid permissions"

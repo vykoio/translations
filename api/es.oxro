@@ -1,0 +1,68 @@
+//General Translations
+
+//API status (uppercase)
+ok = "BIEN"
+failing = "FALLANDO"
+
+//The literal translation for a field (input field)
+
+//Lowercase
+field = "campo"
+username = "el nombre de usuario"
+password = "la contraseña"
+characters = "los carácteres"
+token = "la seña"
+
+//Case respective
+invalid = "Inválido"
+valid = "Válido"
+
+
+//Messages
+
+//General
+Characters is already translated. Don't add it here.
+input.short = "Debe ser por lo menos"
+input.long = "Debe ser menor que"
+
+//Account
+account.creation.success = "Cuenta creada, compruebe su correo electrónico."
+account.login.success = "Conectado"
+account.logout_all = "Cerrado sesión en todas las sesionesLogged out of all sessions"
+account.passwordreset.requested = "Las instrucciones de restablecimiento de contraseña se han enviado a su correo electrónico."
+account.passwordreset.success = "Restablecimiento de contraseña"
+account.passwordchange.success = "Contraseña modificada"
+account.activation.success = "Cuenta activada"
+account.activation.resent = "Se ha enviado un nuevo correo electrónico de activación a su correo electrónico."
+account.magic_link.requested = "Se ha enviado un enlace mágico a su correo electrónico."
+account.tfa.backup = "Los códigos de recuperación se utilizan para acceder a su cuenta en caso de que no pueda recibir códigos de autenticación de dos factores. Por favor, guárdelos en un lugar seguro antes de continuar."
+account.tfa.scan = "Escanee la imagen de arriba con la aplicación de autenticación de dos factores en su teléfono. Si no puede utilizar un código de barras, introduzca el código de texto siguiente en su lugar."
+account.tfa.success = "La Autenticación de Dos Factores se ha habilitado correctamente en su cuenta."
+
+//Errors
+error.unknown = "Se ha producido un error desconocido, vuelve a intentar?"
+error.not_found = "Punto final no encontrado, compruebe su ortografía"
+error.not_provided = "No se ha proporcionado"
+error.no_tos = "Debe aceptar los términos de servicio"
+error.secure_password = "Debe contener caracteres y números"
+error.in_use = "En uso, pruebe con otro"
+error.invalid_token = "Token inválido"
+error.no_token = "No se ha proporcionado ningún token"
+error.already_activated = "La cuenta ya se ha activado"
+error.no_account = "No se ha encontrado ninguna cuenta"
+error.no_changes = "No se han realizado cambios"
+error.tfa_already_enabled = "La Autenticación de Dos Factores ya se ha habilitado en esta cuenta"
+
+//Missing translations:
+//updated = "Updated"
+//projects.creation.success = "Project has been created successfully"
+//projects.invite.success = "User has been invited. Have them check their Email."
+//projects.invite.already = "User is already a member"
+//projects.join.success = "Joined project"
+//projects.invite.not_allowed = "You're not able to join this project, have you been given an invite?"
+//projects.role.changed = "Role updated"
+//error.file_type = "Unaccepted file type"
+//error.file_size = "File is too large"
+//error.rate_limited = "You're being rate-limited"
+//error.too_many = "You've reached your maximum allowance for such a resource"
+//error.no_permission = "Invalid permissions"
