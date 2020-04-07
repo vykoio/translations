@@ -27,10 +27,10 @@ account.new_location.plain = "There was a new login location detected for your a
 account.new_location.buttonText = "Confirm Location"
 
 //Invited to control storefront
-invite.control.body = "{{fromUser}} has invited you to control {{project}}! To accept, click on the button below."
-invite.control.plain = "{{fromUser}} has invited you to control {{project}}! To accept, paste the following link in your browser: {{link}}"
+invite.control.body = "{{fromUser}} has invited you to control {{inbox}}! To accept, click on the button below."
+invite.control.plain = "{{fromUser}} has invited you to control {{inbox}}! To accept, paste the following link in your browser: {{link}}"
 invite.control.buttonText = "Accept Invite"
-invite.control.subject = "[Vyko] {{fromUser}} has invited you to join the {{project}} project"
+invite.control.subject = "[Vyko] {{fromUser}} has invited you to join the {{inbox}} inbox"
 
 //Invited to join vyko
 invite.join.body = "{{fromUser}} has invited you to join Vyko! Access the invitation by clicking on the button below."

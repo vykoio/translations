@@ -25,9 +25,9 @@ account.new_location.body = "귀하의 계정에 대해 새로운 로그인 위�
 account.new_location.plain = "귀하의 계정에 대해 새로운 로그인 위치가 감지되었습니다. 손님의 계정 및 정보의 보안이 최우선이므로 아래의 IP 및 위치를 검토하고 본인임을 확인하시기 바랍니다. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication. Please confirm this location and device by pasting the following link in your browser: {{link}}"
 account.new_location.buttonText = "위치 확인"
 
-//Invited to control storefront
-invite.control.body = "{{fromUser}} 는 당신을 {{project}}을 통제하도록 초대했습니다! 동의하려면 아래 버튼을 클릭하십시오."
-invite.control.plain = "{{fromUser}} 는 당신을 {{project}}을 통제하도록 초대했습니다! 수락하려면 브라우저에 다음 링크를 붙여 너으십시오: {{link}}"
+//Invited to control inbox
+invite.control.body = "{{fromUser}} 는 당신을 {{inbox}}을 통제하도록 초대했습니다! 동의하려면 아래 버튼을 클릭하십시오."
+invite.control.plain = "{{fromUser}} 는 당신을 {{inbox}}을 통제하도록 초대했습니다! 수락하려면 브라우저에 다음 링크를 붙여 너으십시오: {{link}}"
 invite.control.buttonText = "초대 수락"
 
 //Invited to join vyko
@@ -49,4 +49,6 @@ invite.beta.buttonText = "초대 수락"
 
 
 //Missing translations:
-//invite.control.subject = "[Vyko] {{fromUser}} has invited you to join the {{project}} project"
+//account.created.plain = "An account for Vyko was created under this email. If you don't recognize this activity, you can disregard this email. If it was, please paste the following link in your browser to activate your account and get started: {{link}}"
+//account.created.buttonText = "Activate Account"
+//invite.control.subject = "[Vyko] {{fromUser}} has invited you to join the {{inbox}} inbox"

@@ -52,18 +52,3 @@ error.already_activated = "계정이 이미 활성화되었습니다"
 error.no_account = "계정을 찾을 수 없습니다"
 error.no_changes = "변경 사항이 없습니다"
 error.tfa_already_enabled = "이 계정에서 이미 이중 인증이 활성화되었습니다"
-
-
-//Missing translations:
-//updated = "Updated"
-//projects.creation.success = "Project has been created successfully"
-//projects.invite.success = "User has been invited. Have them check their Email."
-//projects.invite.already = "User is already a member"
-//projects.join.success = "Joined project"
-//projects.invite.not_allowed = "You're not able to join this project, have you been given an invite?"
-//projects.role.changed = "Role updated"
-//error.file_type = "Unaccepted file type"
-//error.file_size = "File is too large"
-//error.rate_limited = "You're being rate-limited"
-//error.too_many = "You've reached your maximum allowance for such a resource"
-//error.no_permission = "Invalid permissions"

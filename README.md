@@ -53,7 +53,7 @@ Variables can also be used in email templates. Paste them in exactly as they are
 
 `{{fromUser}}`: The user that caused such an email to send (invitation e.t.c)
 
-`{{project}}`: The name of the storefront that caused such an email to send (invitation e.t.c).
+`{{inbox}}`: The name of the storefront that caused such an email to send (invitation e.t.c).
 
 `{{link}}`: The link associated with the action of the email (e.g activation link) **Only to be used in plaintext (non HTML) emails**
 
