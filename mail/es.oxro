@@ -6,20 +6,20 @@ kindregards = "Buenos Deseos"
 
 //Mail footer
 contact = "Contacto & Soporte"
-copyright = "Copyright (c) 2019 Oxro, LTD. Todos los derechos reservados."
+copyright = "Copyright (c) {{year}} Vyko, LTD. Todos los derechos reservados."
 
 //Account Created (please activate)
-account.created.body = "Se creó una cuenta para Oxro en este correo electrónico. Si no reconoce esta actividad, puede ignorar este correo electrónico.\nSi lo fuera, haga clic en el botón de abajo para activar su cuenta y empezar:"
-account.created.plain = "Se creó una cuenta para Oxro en este correo electrónico. Si no reconoce esta actividad, puede ignorar este correo electrónico. Si es así, pegue el siguiente enlace en su navegador para activar su cuenta y empezar: {{link}}"
+account.created.body = "Se creó una cuenta para Vyko en este correo electrónico. Si no reconoce esta actividad, puede ignorar este correo electrónico.\nSi lo fuera, haga clic en el botón de abajo para activar su cuenta y empezar:"
+account.created.plain = "Se creó una cuenta para Vyko en este correo electrónico. Si no reconoce esta actividad, puede ignorar este correo electrónico. Si es así, pegue el siguiente enlace en su navegador para activar su cuenta y empezar: {{link}}"
 account.created.buttonText = "Activar Cuenta"
 account.created.title = "Activar Cuenta"
-account.created.subject = "Activar su cuenta de Oxro"
+account.created.subject = "Activar su cuenta de Vyko"
 
 //Account password reset
 account.password_reset.body = "Parece que has perdido su contraseña. No le preocupes, afortunadamente puedes restablecerlo haciendo clic en el botón de abajo. Sin embargo, si no solicitó un restablecimiento de contraseña, puede ignorar este correo electrónico y nada más será de él.\nEsto expirará en 10 minutos."
 account.password_reset.plain = "Parece que has perdido su contraseña. No le preocupes, afortunadamente puedes restablecerlo haciendo clic en el siguiente enlace en tu navegador: {{link}}. Sin embargo, si no solicitó un restablecimiento de contraseña, puede ignorar este correo electrónico y nada más será de él. Este enlace caducará en 10 minutos."
 account.password_reset.buttonText = "Cambiar la contraseña"
-account.password_reset.subject = "Recupera tu contraseña de Oxro" 
+account.password_reset.subject = "Recupera tu contraseña de Vyko" 
 
 //Account new location
 account.new_location.body = "Se detectó una nueva ubicación de inicio de sesión para su cuenta. La seguridad de su cuenta e información es nuestra prioridad, por lo que le sugerimos que revise la IP y la ubicación a continuación y confirme que es usted. Si esto no se parece a usted, considere cambiar su contraseña y/o el método de su Autenticación de Dos Factores.\nConfirme esta ubicación y dispositivo haciendo clic en el botón de abajo."
@@ -31,9 +31,9 @@ invite.control.body = "{{fromUser}} le ha invitado a controlar {{project}}! Para
 invite.control.plain = "{{fromUser}} le ha invitado a controlar {{project}}! Para aceptar, pegue el siguiente enlace en su navegador: {{link}}"
 invite.control.buttonText = "Aceptar Invitación"
 
-//Invited to join oxro
-invite.join.body = "{{fromUser}} se ha invitado a unirte a Oxro! Acceda a la invitación haciendo clic en el botón de abajo."
-invite.join.plain = "{{fromUser}} se ha invitado a unirte a Oxro! Access the invitation by pasting the link in your browser: {{link}}"
+//Invited to join vyko
+invite.join.body = "{{fromUser}} se ha invitado a unirte a Vyko! Acceda a la invitación haciendo clic en el botón de abajo."
+invite.join.plain = "{{fromUser}} se ha invitado a unirte a Vyko! Access the invitation by pasting the link in your browser: {{link}}"
 invite.join.buttonText = "Aceptar Invitación"
 
 //Magic link login
@@ -41,13 +41,13 @@ account.magic_link.body = "Se solicitó autenticarse sin contraseña a través d
 account.magic_link.plain = "Se solicitó autenticarse sin contraseña a través de un enlace mágico. If this was indeed you and you wish to proceed, please follow this link: {{link}}. If not, you can safely ignore this email."
 account.magic_link.buttonText = "Autenticarme"
 account.magic_link.title = "Autentiquese"
-account.magic_link.subject = "Solicitud de autenticación sin contraseña de Oxro"
+account.magic_link.subject = "Solicitud de autenticación sin contraseña de Vyko"
 
-//Invited to join oxro beta
-invite.beta.body= "¡Has sido invitado por el equipo de Oxro a unirte a Oxro! Haga clic en el botón de abajo para registrarse para acceder a un aspecto exclusivo y la experiencia de Oxro!"
-invite.beta.plain = "¡Has sido invitado por el equipo de Oxro a unirte a Oxro! Pega el siguiente enlace en tu navegador para registrarte y acceder a un aspecto y una experiencia exclusivos de Oxro: {{link}}."
+//Invited to join vyko beta
+invite.beta.body= "¡Has sido invitado por el equipo de Vyko a unirte a Vyko! Haga clic en el botón de abajo para registrarse para acceder a un aspecto exclusivo y la experiencia de Vyko!"
+invite.beta.plain = "¡Has sido invitado por el equipo de Vyko a unirte a Vyko! Pega el siguiente enlace en tu navegador para registrarte y acceder a un aspecto y una experiencia exclusivos de Vyko: {{link}}."
 invite.beta.buttonText = "Aceptar Invitación"
 
 
 //Missing translations:
-//invite.control.subject = "[Oxro] {{fromUser}} has invited you to join the {{project}} project"
+//invite.control.subject = "[Vyko] {{fromUser}} has invited you to join the {{project}} project"

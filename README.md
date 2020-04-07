@@ -16,19 +16,19 @@ Whilst you may be lucky enough to understand English to a certain degree, others
 
 3. Select the file(s) or location(s) where you wish to perform your translations ([see `What file am I looking for?`](#what-file-am-i-looking-for)).
 
-   - **If a file/directory with your two letter language code does not exist**, you'll need to create it. Put it in the correct location (see others for an example) and name it with either the two letter language code - `xx.oxro` (replacing xx with code) or the valid page name (again, see what others have done for a reference). Then, copy the contents of `new.oxro` or, if you created a directory, the `new/` folder into your newly created file(s) for guidance (if required).
+   - **If a file/directory with your two letter language code does not exist**, you'll need to create it. Put it in the correct location (see others for an example) and name it with either the two letter language code - `xx.vyko` (replacing xx with code) or the valid page name (again, see what others have done for a reference). Then, copy the contents of `new.vyko` or, if you created a directory, the `new/` folder into your newly created file(s) for guidance (if required).
 
 4. You may now begin translating from English into your language of choice. Removing the `//` infront of whatever you decide to translate so our system knows a translation is available for the said "key" in your language. E.g `//account.creation.activation = "Success"` would become `account.creation.activation = "Success"`
 
-   - If you are unsure of what a certain "key" means, [open an issue here](https://github.com/vykoio/translations/issues) or email us - [translations@oxro.io](mailto:translations@byko.io)
+   - If you are unsure of what a certain "key" means, [open an issue here](https://github.com/vykoio/translations/issues) or email us - [translations@vyko.io](mailto:translations@byko.io)
 
-5. When you've finished translating some or all of the "keys", [create a pull request](https://guides.github.com/activities/forking/#making-a-pull-request) so we can implement it into our official Repository and have it reflected across our platform. Within a pull request, please leave the information required for us to add you to the sites credit (Your Name/Alias and [optionally] your website/social platform) and/or your Oxro username so we can add your rewards to your account.
+5. When you've finished translating some or all of the "keys", [create a pull request](https://guides.github.com/activities/forking/#making-a-pull-request) so we can implement it into our official Repository and have it reflected across our platform. Within a pull request, please leave the information required for us to add you to the sites credit (Your Name/Alias and [optionally] your website/social platform) and/or your Vyko username so we can add your rewards to your account.
 
 ## What file am I looking for?
 
 If you're looking to translate messages for the API (messages the user receives after performing a task - e.g registration) - see the `api/` directory. Each language has it's own file.
 
-If you're looking to translate messages for the site's pages, see the `front/` directory. Each language has it's own directory and within that are files for each page (e.g `landing.oxro` for the landing/home page).
+If you're looking to translate messages for the site's pages, see the `front/` directory. Each language has it's own directory and within that are files for each page (e.g `landing.vyko` for the landing/home page).
 
 If you're looking to translate messages for the Emails sent to user's, see the `mail/` directory. Each language has it's own file.
 
