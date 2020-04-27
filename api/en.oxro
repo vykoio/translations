@@ -38,13 +38,14 @@ account.tfa.backup = "Recovery codes are used to access your account in the even
 account.tfa.scan = "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter the text code below instead."
 account.tfa.success = "Two Factor Authentication has successfully been enabled on your account."
 
-//Projects
+//Inbox
 inbox.creation.success = "Inbox has been created successfully"
 inbox.invite.success = "User has been invited. Have them check their Email."
 inbox.invite.already = "User is already a member"
 inbox.join.success = "Joined inbox"
 inbox.invite.not_allowed = "You're not able to join this inbox, have you been given an invite?"
 inbox.role.changed = "Role updated"
+inbox.not_removed = "Could not remove specified resource. Perhaps check spelling?"
 //Errors
 error.file_type = "Unaccepted file type"
 error.file_size = "File is too large"
