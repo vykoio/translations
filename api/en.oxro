@@ -38,6 +38,9 @@ account.tfa.backup = "Recovery codes are used to access your account in the even
 account.tfa.scan = "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter the text code below instead."
 account.tfa.success = "Two Factor Authentication has successfully been enabled on your account."
 
+//Payments
+payments.invalid_plan = "Invalid plan provided"
+
 //Inbox
 inbox.creation.success = "Inbox has been created successfully"
 inbox.invite.success = "User has been invited. Have them check their Email."
