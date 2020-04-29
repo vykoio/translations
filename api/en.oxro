@@ -40,7 +40,7 @@ account.tfa.success = "Two Factor Authentication has successfully been enabled o
 
 //Payments
 payments.invalid_plan = "Invalid plan provided"
-
+payments.already_own = "You cannot purchase a plan you already own"
 //Inbox
 inbox.creation.success = "Inbox has been created successfully"
 inbox.invite.success = "User has been invited. Have them check their Email."
