@@ -1,7 +1,5 @@
-welcome = "Welcome"
 welcome_back = "Welcome Back"
 login_instead = "Already have an account? Login"
-register_instead = "Don't have an account? Register"
 here = "here"
 login_method = "Select your login method:"
 magic_login = "Send me a magic link"
