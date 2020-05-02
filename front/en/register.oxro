@@ -2,8 +2,8 @@ welcome = "Welcome"
 register = "Register"
 
 
-login_instead = "Already have an account? Login {{here}}"
-here = "here"
+login_instead = "Already have an account?"
+login = "Login"
 
 tos_agree = "I have read and agree to Vyko's {{tos}} and {{privacy}}"
 tos = "Terms of Service"
