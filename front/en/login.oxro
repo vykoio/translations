@@ -1,5 +1,5 @@
 welcome_back = "Welcome Back"
-login_instead = "Already have an account?"
+register_instead = "Need an account?"
 login_method = "Select your login method:"
 magic_login = "Send me a magic link"
 password_login = "Login with password"
