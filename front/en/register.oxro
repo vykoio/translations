@@ -1,6 +1,7 @@
+welcome = "Welcome"
 register = "Register"
 
-create_account = "Create account"
+
 login_instead = "Already have an account? Login {{here}}"
 here = "here"
 
