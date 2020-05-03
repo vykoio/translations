@@ -1,2 +1,3 @@
 unknown = "An unknown error occured. Try again?"
 invalid = "Invalid"
+not_found = "Not Found"
