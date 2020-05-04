@@ -7,5 +7,5 @@ password_login = "Login with password"
 login = "Login"
 register = "Register"
 
-tfa_verification = "Two factor verification"
+tfa_verification = "Two-Factor Authentication"
 tfa_info = "Check your 2FA app or enter one of your backup codes to proceed"
