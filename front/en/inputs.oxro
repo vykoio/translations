@@ -1,6 +1,7 @@
 //Input placeholders
 email = "Email"
 username = "Username"
+tfa = "2fa Code"
 username_email = "Username or Email"
 password = "Password"
 confirm_password = "Confirm Password"
