@@ -38,6 +38,10 @@ account.tfa.backup = "Recovery codes are used to access your account in the even
 account.tfa.scan = "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter the text code below instead."
 account.tfa.success = "Two Factor Authentication has successfully been enabled on your account."
 
+//Tokens
+token.created = "API Token created"
+token.deleted "API Token removed"
+
 //Payments
 payments.invalid_plan = "Invalid plan provided"
 payments.already_own = "You cannot purchase a plan you already own"
