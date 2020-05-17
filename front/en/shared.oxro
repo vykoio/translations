@@ -1,2 +1,5 @@
 //Various shared texts
 continue = "Continue"
+
+//Plans
+plan.1 = "Free"
