@@ -1,2 +1,3 @@
 activate = "Please check your email, you've not yet activated your account."
 resend_activate = "Resend Activation"
+resend_activate_success = "Resent"
