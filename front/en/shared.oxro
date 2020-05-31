@@ -6,6 +6,7 @@ last_email = "Last Email"
 //Plans
 plan.1 = "Free"
 //Timings
+never = "Never"
 seconds = "{{time}} seconds ago"
 minutes = "{{time}} minutes ago"
 hours = "{{time}} hours ago"
