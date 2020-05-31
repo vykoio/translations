@@ -3,6 +3,7 @@ continue = "Continue"
 loading = "Loading"
 name = "Name"
 last_email = "Last Email"
+emails = "Emails"
 //Plans
 plan.1 = "Free"
 //Timings
