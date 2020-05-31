@@ -5,3 +5,9 @@ name = "Name"
 last_email = "Last Email"
 //Plans
 plan.1 = "Free"
+//Timings
+seconds = "{{time}} seconds ago"
+minutes = "{{time}} minutes ago"
+hours = "{{time}} hours ago"
+months = "{{time}} months ago"
+years = "{{time}} years ago"
