@@ -5,6 +5,7 @@ name = "Name"
 last_email = "Last Email"
 emails = "Emails"
 created = "Created"
+actions = "Actions"
 //Plans
 plan.1 = "Free"
 //Timings
