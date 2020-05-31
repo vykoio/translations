@@ -4,6 +4,7 @@ loading = "Loading"
 name = "Name"
 last_email = "Last Email"
 emails = "Emails"
+created = "Created"
 //Plans
 plan.1 = "Free"
 //Timings
