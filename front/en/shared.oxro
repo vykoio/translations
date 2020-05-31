@@ -1,5 +1,7 @@
 //Various shared texts
 continue = "Continue"
 loading = "Loading"
+name = "Name"
+last_email = "Last Email"
 //Plans
 plan.1 = "Free"
