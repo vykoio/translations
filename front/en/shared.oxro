@@ -1,6 +1,8 @@
 //Various shared texts
 continue = "Continue"
 loading = "Loading"
+ok = "OK"
+cancel = "Cancel"
 name = "Name"
 last_email = "Last Email"
 emails = "Emails"
